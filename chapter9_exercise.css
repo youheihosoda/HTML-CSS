@@ -31,6 +31,7 @@ main {
   width: 300px;
   background-size: cover;
   background-position: bottom;
+  
 }
 
 .text {
@@ -67,6 +68,7 @@ main {
   width: 300px;
   background-size: cover;
   background-position: bottom;
+  
 }
 
 .step-num {
@@ -118,30 +120,30 @@ main {
   }
 
   main {
-    width: 100%;
-    display: flex;
-    justify-content: center;
     display: inline;
+    width: 100%;
   }
 
   .blog-item1 {
     margin-bottom: 20px;
-    margin-left: 10%;
-    margin-right: 10%;
     margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
   }
 
   .blog-item2 {
     margin-bottom: 20px;
-    margin-left: 10%;
-    margin-right: 10%;
-    
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
   }
 
   .blog-item3 {
     margin-bottom: 50px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
   }
 
   .bar {
@@ -149,9 +151,4 @@ main {
     margin-bottom: 50px;
   }
 
-  .text {
-  }
-
-  .blog-text {
-  }
-}
+  
